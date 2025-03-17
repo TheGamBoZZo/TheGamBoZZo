@@ -20,4 +20,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegambozzo&show_icons=true&locale=en" alt="thegambozzo" /></p>
 
-![github-snake](https://github.com/user-attachments/assets/3cb3b945-392c-4fa3-a0c7-617832153d61)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/thegambozzo/thegambozzo/output/github-snake.svg" />
+</picture>
