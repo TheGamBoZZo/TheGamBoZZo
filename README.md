@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **raees04fakier@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad raees fakier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad raees fakier" height="30" width="40" /></a>
@@ -18,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegambozzo&show_icons=true&locale=en&layout=compact" alt="thegambozzo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegambozzo&show_icons=true&locale=en" alt="thegambozzo" /></p>
+
+![github-snake](https://github.com/user-attachments/assets/3cb3b945-392c-4fa3-a0c7-617832153d61)
