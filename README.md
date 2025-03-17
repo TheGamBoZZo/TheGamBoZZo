@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Raees Fakier</h1>
-# 💫 About Me:
+
 I am a Software Engineering Honours student passionate about building scalable and efficient applications. My goal is to become a software engineer specializing in backend development, distributed systems, and cloud computing.
 
 
